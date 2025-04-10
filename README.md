@@ -31,8 +31,9 @@
 <p align="left">
   I’m Unnikrishnan K from Bangalore, India, and I am currently working as a AVP - Cloud and DevOps Architect for AI/ML Practice at Genpact India Pvt.Ltd.
   <br><br>
-  - 🔭 Experienced IT professional with 18+ years in Cloud & DevOps Architecture, Infrastructure Management, Automation and AI/ML Infrastructure. 
-  
+    
+  - Experienced IT professional with 18+ years in Cloud & DevOps Architecture, Infrastructure Management, Automation and AI/ML Infrastructure.
+
   - Proficient in Azure IaaS, ARM templates, and cloud migration, with expertise in automation using PowerShell, Terraform, Kubernetes and Ansible.
   
   - Skilled in CI/CD pipeline management with Jenkins, Azure DevOps, and Git, along with Docker containerization for streamlined deployment.
@@ -112,11 +113,6 @@
 
 ###
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thangacodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 <div align="left">
