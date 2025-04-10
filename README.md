@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure cloud logo" />
 
   <!-- Azure DevOps Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Azure_DevOps_Logo.svg" height="40" alt="azure devops logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Azure_DevOps_Logo.svg" height="40" alt="azure devops logo" />
   
   <!-- GitHub Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
@@ -88,8 +88,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_-_2021.svg" height="40" alt="windows 365 logo" />
 
   <!-- Azure Virtual Desktop Logo (using Azure symbol) -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="azure virtual desktop logo" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="azure virtual desktop logo" />
 
   <!-- PowerShell Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
