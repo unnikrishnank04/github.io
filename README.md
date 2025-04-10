@@ -53,17 +53,21 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   
-  <!-- AWS Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-
+ 
   <!-- Azure Cloud Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure cloud logo" />
+
+  <!-- Azure DevOps Logo -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Azure_DevOps_Logo.svg" height="40" alt="azure devops logo" />
   
   <!-- GitHub Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
   <!-- GitHub Actions Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+
+   <!-- AWS Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   
   <!-- Jenkins Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
@@ -77,8 +81,18 @@
   <!-- Terraform Logo (HashiCorp) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo" />
 
-  <!-- HashiCorp Vault Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original-wordmark.svg" height="40" alt="hashicorp vault logo" />
+  <!-- Citrix Cloud Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Citrix_Systems_logo.svg" height="40" alt="citrix cloud logo" />
+
+ <!-- Windows 365 Logo -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_-_2021.svg" height="40" alt="windows 365 logo" />
+
+  <!-- Azure Virtual Desktop Logo (using Azure symbol) -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="azure virtual desktop logo" />
+
+
+  <!-- PowerShell Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
 
   <!-- Bash Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
@@ -86,8 +100,7 @@
   <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
   
-  <!-- PowerShell Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
+
 
 
 </div>
